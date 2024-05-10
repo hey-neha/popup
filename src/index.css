@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  margin: 5rem;
+}
+.mdial-wrapper{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background-color: rgb(189,189,189,0.9);
+  }
+  .mdial-wrapper p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .mdial-wrapper  button{
+      margin-top: 10px;
+      padding: 10px 30px;
+      border-radius: 20px;
+      background-color: black;
+      color: white;
+  }
+  
